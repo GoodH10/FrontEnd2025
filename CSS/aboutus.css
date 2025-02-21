@@ -1,0 +1,15 @@
+.carousel-item .carousel-inner{
+    max-width: 600px; /* Adjust width */
+    max-height: 300px; /* Adjust height */
+    margin: auto; /* Center it */
+  }
+  
+  .carousel-item img {
+    max-height: 300px; /* Limit image height */
+    object-fit: cover; /* Prevent image stretching */
+  }
+
+
+
+
+/* hhiiiiiiiiyyyyyaaaaaa HHHHAAAAYYYYYLLLLLLEEEEEEYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
